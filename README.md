@@ -8,4 +8,6 @@ This is run on Next JS, TypeScript, React, and Tailwind CSS. It fetches data fro
 
 Unfortunately, I have not been able to find a car image generator that works for free and also scales with the needs of this project. This is also to be expanded and acts as a showcase for other potential features that could be built on for a more fully functional platform.
 
+You can view the deployed version of the app [here on Vercel](https://star-cars-one.vercel.app/)!
+
 Enjoy!
