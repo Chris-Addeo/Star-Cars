@@ -1,24 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Star Car Rental
 
-## Getting Started
+## Project by Chris Addeo
 
-First, run the development server:
+Are you a curious car renter? Well this is the perfect place for you! This web app showcases and lets you search different car brands, models, and years at a whim.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This is run on Next JS, TypeScript, React, and Tailwind CSS. It fetches data from ["Cars" by API-Ninjas](https://rapidapi.com/apininjas/api/cars-by-api-ninjas) on [RapidApi.com](https://rapidapi.com/hub).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Unfortunately, I have not been able to find a car image generator that works for free and also scales with the needs of this project. This is also to be expanded and acts as a showcase for other potential features that could be built on for a more fully functional platform.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Enjoy!
 
 ## Learn More
 
